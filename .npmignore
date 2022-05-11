@@ -3,6 +3,9 @@
 docs
 ion-tests 
 tests
+test
+test-driver
+tslint.json
 .baseDir*
 .travis.yml
 _config.yml
@@ -14,3 +17,6 @@ browser
 src
 *.map
 Gruntfile.js
+.github/
+.nyc_output/
+.prettierignore
